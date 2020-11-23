@@ -1,1 +1,186 @@
-# The-Law-of-Liberty-Freedom-from-Sin
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Law of Liberty-Freedom from Sin</title>
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css"
+    integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous" />
+  <link rel="stylesheet" href="./CSS/style.css" />
+  
+  <!-- JS, Popper.js, and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js"
+    integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+</head>
+<body>
+  <h1 class="text-center border-bottom border-dark" >The Law of Liberty- Freedom from Sin</h1>
+  <br>
+  <br>
+  <h3>Evidences</h3>
+  <br>
+  
+  <div>
+    <figure class="figure rounded float-left">
+      <img class="images" src="./images/jesus-3476251__340.webp" class="rounded float-right" width="400" height="350"
+        alt="" >
+      <figcaption class="figure-caption text-left">
+</figcaption>
+    </figure>
+</div>
+
+    
+  <p class="bible">2 Peter 1:19 KJV  We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light
+  that shineth in a dark place, until the day dawn, and the day star arise in your hearts:
+ </p>
+
+  <p class="text">God Spirit has illuminated every page of Holy writ, but there are those upon who it makes little impression because it is perfectly understood.
+</p>
+
+  <p class="text" > When the shaking comes, by the introduction of false theories <b>these readers, ancho.re nowhere, they are like shifting sand.</b> They slide into any position to suit the tenor of their feeling of bitterness.
+</p>
+
+<p class="text">We should not be shaken neither by letter nor by word but as spirit.
+</p>
+
+<p class="bible">2 Timothy 2:14-15 KJV  Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.  (15)  Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
+ </p>
+
+<p class="bible" > Isaiah 28:9-13 KJV  Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned
+from the milk, and drawn from the breasts.  (10)  For precept must be upon precept, precept upon precept; line upon
+line, line upon line; here a little, and there a little:  (11)  For with stammering lips and another tongue will he
+speak to this people.  (12)  To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the
+refreshing: yet they would not hear.  (13)  But the word of the LORD was unto them precept upon precept, precept upon
+precept; line upon line, line upon line; here a little, and there a little; that they might go, and fall backward, and
+be broken, and snared, and taken.
+</p>
+
+<p class="text"> We should divide the word of truth
+</p>
+
+  <p class="bible">Joel 2:28-32 KJV  And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and
+  your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:  (29)  And also upon
+  the servants and upon the handmaids in those days will I pour out my spirit.  (30)  And I will shew wonders in the
+  heavens and in the earth, blood, and fire, and pillars of smoke.  (31)  The sun shall be turned into darkness, and the
+  moon into blood, before the great and the terrible day of the LORD come.  (32)  And it shall come to pass, that
+  whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be
+  deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
+</p>
+
+  <p class="bible">2 Timothy 2:17-18 KJV  And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;  (18)  Who
+  concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
+</p>
+
+  <p class="text"> <b>None but those who have fullfilled the mind with the truths of the Bible will stand through the last great conflict.</b> To every soul will come the searching test: Shall i obey God rather than men.
+  </p>
+
+  <p class="text"> The decisive hour is even now at hand. Are our feet planted on the rock of God's immutable word? Are we prepared to stood from in defense of the commandments of God and the faith of Jesus? <b> Great Controversy 593</b>
+  </p>
+
+  <p class="text"> It is not enough to have good intentions; it is not enough to do what a man think is right or what the minister tells him is right. His soul's salvation is at stake, and he should search the scriptures for himself.
+  </p>
+
+
+  <p class="bible">Proverbs 14:12 KJV  There is a way which seemeth right unto a man, but the end thereof are the ways of death.
+</p>
+
+  <p class="text"> However strong may be his convictions, however confident he may be that the minister knows what what is truth, this is not his foundation. He has a chest pointing of every wayward on the heavenward journey and he ought not to guess at anything. <b>Great Controversy 598</b>
+  </p>
+
+  <p class="bible">Genesis 2:15-17 KJV  And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.
+   (16)  And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:  (17)  But of the
+  tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt
+  surely die.
+</p>
+
+  <p class="bible">Romans 6:23 KJV  For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
+</p>
+
+  <p class="bible">1 John 3:4 KJV  Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
+  </p>
+
+  <p class="bible">Romans 4:15 KJV  Because the law worketh wrath: for where no law is, there is no transgression.
+</p>
+
+  <p class="bible">Romans 5:13 KJV  (For until the law sin was in the world: but sin is not imputed when there is no law.
+  </p>
+
+  <p class="bible">James 2:8-12 KJV  If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do
+  well:  (9)  But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.  (10)  For
+  whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.  (11)  For he that said, Do not
+  commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a
+  transgressor of the law.  (12)  So speak ye, and so do, as they that shall be judged by the law of liberty.
+  </p>
+
+  <p class="bible">Romans 13:8-10 KJV  Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
+   (9)  For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false
+  witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely,
+  Thou shalt love thy neighbour as thyself.  (10)  Love worketh no ill to his neighbour: therefore love is the fulfilling
+  of the law.
+</p>
+
+  <p class="bible">Genesis 3:1-4 KJV  Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said
+  unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?  (2)  And the woman said unto the
+  serpent, We may eat of the fruit of the trees of the garden:  (3)  But of the fruit of the tree which is in the midst of
+  the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.  (4)  And the serpent said
+  unto the woman, Ye shall not surely die:
+  </p>
+
+  <p class="bible">1 Peter 2:21-22 KJV  For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that
+  ye should follow his steps:  (22)  Who did no sin, neither was guile found in his mouth:
+  </p>
+
+  <p class="bible">Hebrews 4:14 KJV  Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God,
+  let us hold fast our profession.
+  </p>
+
+  <p class="Christ is our Example">
+  </p>
+
+  <p class="bible">Exodus 20:1-17 KJV  And God spake all these words, saying,  (2)  I am the LORD thy God, which have brought thee out of
+  the land of Egypt, out of the house of bondage.  (3)  Thou shalt have no other gods before me.  (4)  Thou shalt not make
+  unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or
+  that is in the water under the earth:  (5)  Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy
+  God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of
+  them that hate me;  (6)  And shewing mercy unto thousands of them that love me, and keep my commandments.  (7)  Thou
+  shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in
+  vain.  (8)  Remember the sabbath day, to keep it holy.  (9)  Six days shalt thou labour, and do all thy work:  (10)  But
+  the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy
+  daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:  (11)  For in
+  six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the
+  LORD blessed the sabbath day, and hallowed it.  (12)  Honour thy father and thy mother: that thy days may be long upon
+  the land which the LORD thy God giveth thee.  (13)  Thou shalt not kill.  (14)  Thou shalt not commit adultery.  (15) 
+  Thou shalt not steal.  (16)  Thou shalt not bear false witness against thy neighbour.  (17)  Thou shalt not covet thy
+  neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor
+  his ass, nor any thing that is thy neighbour's.
+  </p>
+
+  <p class="bible">Luke 4:16 KJV  And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue
+  on the sabbath day, and stood up for to read.
+  </p>
+
+  <p class="bible">John 15:9-10 KJV  As the Father hath loved me, so have I loved you: continue ye in my love.  (10)  If ye keep my
+  commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.
+  </p>
+
+  <p class="bible">Matthew 19:16-22 KJV  And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have
+  eternal life?  (17)  And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if
+  thou wilt enter into life, keep the commandments.  (18)  He saith unto him, Which? Jesus said, Thou shalt do no murder,
+  Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,  (19)  Honour thy father and
+  thy mother: and, Thou shalt love thy neighbour as thyself.  (20)  The young man saith unto him, All these things have I
+  kept from my youth up: what lack I yet?  (21)  Jesus said unto him, If thou wilt be perfect, go and sell that thou hast,
+  and give to the poor, and thou shalt have treasure in heaven: and come and follow me.  (22)  But when the young man
+  heard that saying, he went away sorrowful: for he had great possessions.
+
+  </p>
+
+  <p class="text"> You can't keep self and be saved.
+  </p>
+
+
+</body>
+</html>
